@@ -1,0 +1,15 @@
+mat-toolbar {
+    background: rgb(219, 59, 59);
+    color: #fff;
+}
+
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+.user{
+    color: #fff;
+    background: #000;
+    border: #fff 2px solid;
+    border-radius: 50%;
+}
